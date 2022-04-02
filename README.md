@@ -1,9 +1,14 @@
 # flow_app_settings
-Flow lexicon for apps
+Custom app lexicon for flow data analysis.
 
-|Flow | Generic
-|------|-------
-|Signal|Measurement
-|Event |Observation
-|Group |Filename, Sample
-|SuperGroup|Condition
+|Generic     | Flow
+|:------     |:-------
+|Measurement | Signal
+|Observation | Event
+|Group       | Filename, Sample
+|SuperGroup  | Condition
+
+
+# See also
+
+The generic lexicon is based on the [data designs](https://github.com/tercen/data_designs)
